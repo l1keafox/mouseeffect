@@ -41,7 +41,7 @@ function App() {
       animeTrailer(e,interacting);
       if(interacting){
         getComponentClass(interactable.dataset.type);
-      } else if(icon) {
+      } else  {
         setIcon(null);
       }
 
