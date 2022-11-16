@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mouseeffect/static/css/main.702c5079.css",
+    "main.js": "/mouseeffect/static/js/main.ee27eaf5.js",
+    "static/js/787.d1aa71bf.chunk.js": "/mouseeffect/static/js/787.d1aa71bf.chunk.js",
+    "index.html": "/mouseeffect/index.html",
+    "main.702c5079.css.map": "/mouseeffect/static/css/main.702c5079.css.map",
+    "main.ee27eaf5.js.map": "/mouseeffect/static/js/main.ee27eaf5.js.map",
+    "787.d1aa71bf.chunk.js.map": "/mouseeffect/static/js/787.d1aa71bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.702c5079.css",
+    "static/js/main.ee27eaf5.js"
+  ]
+}
